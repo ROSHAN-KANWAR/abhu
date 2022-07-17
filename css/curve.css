@@ -1,0 +1,137 @@
+body::-webkit-scrollbar{
+    width: 8px;
+}
+::selection{
+    background-color: rgb(77,44,209 );;
+    color: #fff;
+}
+body::-webkit-scrollbar-track{
+    border-radius: 8px;
+    color:rgb(77,44,209 );
+}
+body::-webkit-scrollbar-thumb{
+    border-radius: 8px;
+    background:  rgb(77,44,209 );;
+}
+html{
+    scroll-behavior: smooth;
+    transition: all 1s;
+  }
+section{
+ display: flex;
+ flex-direction: column;
+  text-align: center;
+  position: relative;
+  padding: 150px 20vw;
+  min-height: 400px; 
+}
+/* 1st curve */
+
+/* An Educated mind can teach many */
+.custom-shape-divider-top-1656726190 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1656726190 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-top-1656726190 .shape-fill {
+    fill: #FFFFFF;
+    border:none;
+    outline: none;
+}
+/* An Educated mind can teach many */
+
+/* An Educated mind can teach many */
+.custom-shape-divider-bottom-1656726307 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1656726307 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-bottom-1656726307 .shape-fill {
+    fill: #FFFFFF;
+}
+/* An Educated mind can teach many */
+/* 2nd curve */
+/* A Revolutionary way to Educate */
+.custom-shape-divider-bottom-1656648883 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+.custom-shape-divider-bottom-1656648883 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+.custom-shape-divider-bottom-1656648883 .shape-fill {
+    fill: #FFFFFF;
+}
+/* A Revolutionary way to Educate */
+
+   /* 3rd curve */
+/* We love to make perfect solution  111*/
+.custom-shape-divider-top-1656726712 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+.custom-shape-divider-top-1656726712 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+.custom-shape-divider-top-1656726712 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/* We love to make perfect solution 222 */
+.custom-shape-divider-bottom-1656726766 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+.custom-shape-divider-bottom-1656726766 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+.custom-shape-divider-bottom-1656726766 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/* We love to make perfect solution  */
+
+
